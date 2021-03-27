@@ -1,0 +1,21 @@
+<Question type="Truth" id="GetElvishLanguages" marks="1">
+   <Stem>
+      Which of these following statements about Elvish languages is false?
+   </Stem>
+   <TrueAnswers>
+      <Answer>Quenya's dialects include the languages oF Doriathrin and Noldorin Sindarin.</Answer>
+      <Answer>Sindarin is the language oF those living in Tol Eressëa and Alqualondë.</Answer>
+      <Answer>Exilic Quenya is the colloquial speech oF the Nandor.</Answer>
+      <Answer>Necro Ossiron is the colloquial speech oF the Ossiriand.</Answer>
+      <Answer>Early Elves adapted Vassarin, the tongue oF the gods or Vassar.</Answer>
+      <Answer>Myranya is the language spoken in the Myras oF Besëalondë.</Answer>
+   </TrueAnswers>
+   <FalseAnswers>
+      <Answer>Avarin is the language of various Elves of The Second and Third Clans.</Answer>
+      <Answer>Quenya is the language of the Elves in Eldamar beyond The Sea.</Answer>
+      <Answer>Nandorin is the language of The Nandor.</Answer>
+      <Answer>Falathrin is the language spoken in The Falas of Beleriand.</Answer>
+      <Answer>Common Eldarin is the language of The three clans of the Eldar, but it later developed into Quenya and Common Telerin.</Answer>
+      <Answer>Noldorin Sindarin is the language spoken by The Exiled Noldor.</Answer>
+   </FalseAnswers>
+</Question>

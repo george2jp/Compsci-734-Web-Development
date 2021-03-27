@@ -1,0 +1,31 @@
+<Question type="Xyz" id="GetThorinsCompany" marks="1">
+   <Stem>
+      Which of these following were part of Thorin's company?
+   </Stem>
+   <TrueAnswers>
+      <Answer>Fili</Answer>
+      <Answer>Kili</Answer>
+      <Answer>Balin</Answer>
+      <Answer>Dwalin</Answer>
+      <Answer>Oin</Answer>
+      <Answer>Gloin</Answer>
+      <Answer>Dori</Answer>
+      <Answer>Nori</Answer>
+      <Answer>Ori</Answer>
+      <Answer>Bifur</Answer>
+      <Answer>Bofur</Answer>
+      <Answer>Bombur</Answer>
+   </TrueAnswers>
+   <FalseAnswers>
+      <Answer>Gili</Answer>
+      <Answer>Malin</Answer>
+      <Answer>Bloin</Answer>
+      <Answer>Gyori</Answer>
+      <Answer>Ryori</Answer>
+      <Answer>Dombur</Answer>
+      <Answer>Rofur</Answer>
+      <Answer>Roalin</Answer>
+      <Answer>Gróin</Answer>
+      <Answer>Azaghâl</Answer>
+   </FalseAnswers>
+</Question>

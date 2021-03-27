@@ -1,0 +1,24 @@
+<Question type="Truth" id="GetPrancingPonyPerson" marks="1">
+   <Stem>
+      Who did Sam, Frodo, Pippin and Merry meet at the
+      Prancing Pony on their way to Rivendell carrying the ring?
+   </Stem>
+   <TrueAnswers>
+      <Answer>Aragorn</Answer>
+      <Answer>Strider</Answer>
+   </TrueAnswers>
+   <FalseAnswers>
+      <Answer>Gandalf</Answer>
+      <Answer>Bilbao</Answer>
+      <Answer>Saruman</Answer>
+      <Answer>Thorin</Answer>
+      <Answer>Arwen</Answer>
+      <Answer>Lúthien</Answer>
+      <Answer>Celeborn</Answer>
+      <Answer>Fëanor</Answer>
+      <Answer>Celebrimbor</Answer>
+      <Answer>Narvi</Answer>
+      <Answer>Elu Thingol</Answer>
+      <Answer>Elendil</Answer>
+   </FalseAnswers>
+</Question>

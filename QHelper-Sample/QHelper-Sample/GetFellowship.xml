@@ -1,0 +1,41 @@
+<Question type="Xyz" id="GetFellowship" marks="1">
+   <Stem>
+      Which of these following were part of the group 
+      known as the Fellowship of the Ring?
+   </Stem>
+   <TrueAnswers>
+      <Answer>Peregrin Took</Answer>
+      <Answer>Samwise Gamgee</Answer>
+      <Answer>Meriadoc Brandybuck</Answer>
+      <Answer>Aragorn</Answer>
+      <Answer>Boromir</Answer>
+      <Answer>Legolas</Answer>
+      <Answer>Gandalf</Answer>
+      <Answer>Gimli</Answer>
+      <Answer>Frodo Baggins</Answer>
+   </TrueAnswers>
+   <FalseAnswers>
+      <Answer>Bilbo Baggins</Answer>
+      <Answer>Adelard Took</Answer>
+      <Answer>Belba Bolger</Answer>
+      <Answer>Camellia Sackville</Answer>
+      <Answer>Elfstan</Answer>
+      <Answer>Ferumbras</Answer>
+      <Answer>Ferdinand</Answer>
+      <Answer>Gormadoc</Answer>
+      <Answer>Isumbras</Answer>
+      <Answer>Orgulas</Answer>
+      <Answer>Sigismond</Answer>
+      <Answer>Tom Bombadil</Answer>
+      <Answer>Túrin Turambar</Answer>
+      <Answer>Khîm</Answer>
+      <Answer>Ibûn</Answer>
+      <Answer>Faramir</Answer>
+      <Answer>Gríma</Answer>
+      <Answer>Elrond</Answer>
+      <Answer>Galadriel</Answer>
+      <Answer>Shelob</Answer>
+      <Answer>Finarfin</Answer>
+      <Answer>Eärwen</Answer>
+   </FalseAnswers>
+</Question>

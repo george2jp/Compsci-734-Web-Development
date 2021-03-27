@@ -1,0 +1,21 @@
+<Question type="Xyz" id="QId1" marks="2">
+   <Stem>
+      ?
+   </Stem>
+   <TrueAnswers>
+      <Answer></Answer>
+      <Answer></Answer>
+      <Answer></Answer>
+      <Answer></Answer>
+      <Answer></Answer>
+      <Answer></Answer>
+   </TrueAnswers>
+   <FalseAnswers>
+      <Answer></Answer>
+      <Answer></Answer>
+      <Answer></Answer>
+      <Answer></Answer>
+      <Answer></Answer>
+      <Answer></Answer>
+   </FalseAnswers>
+</Question>

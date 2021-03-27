@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QHelper", "QHelper.csproj", "{12CCB53F-8B67-41A9-A204-979BBBC4FD9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDummy", "..\TestDummy\TestDummy.csproj", "{70F57425-5582-468B-B109-23DBA53F4CC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12CCB53F-8B67-41A9-A204-979BBBC4FD9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12CCB53F-8B67-41A9-A204-979BBBC4FD9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12CCB53F-8B67-41A9-A204-979BBBC4FD9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12CCB53F-8B67-41A9-A204-979BBBC4FD9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70F57425-5582-468B-B109-23DBA53F4CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F57425-5582-468B-B109-23DBA53F4CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F57425-5582-468B-B109-23DBA53F4CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F57425-5582-468B-B109-23DBA53F4CC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CA40347-7F26-4EC9-ADEF-DC7E36426463}
+	EndGlobalSection
+EndGlobal
